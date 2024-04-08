@@ -63,7 +63,7 @@
 
 <li>
 <a href="https://discord.com" target="_blank">
-<img src="https://img.shields.io/badge/discord:  ARØ 0583-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:  ar0nica-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
